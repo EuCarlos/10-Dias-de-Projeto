@@ -4,7 +4,9 @@ Estou me desafiando a postar 10 projetos simples em Python durante um período d
 ## 1° Dia: Dados do Coronavírus:
 ##### Data: 18/09/2020
 O Foco principal é o uso da API `https://corona-api.com/countries`, os dados são capturados e colocados em um grafico no Matplotlib.
-<Imagem do programa funcionandos>
+<p align="center">
+  <img width="460" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay1.jpg">
+</p>
 
 Essa aplicação pegas os numeros de **Casos Confirmados** e **Mortes Confirmadas** dos seguintes países:
 - [x] Estados Unidos
