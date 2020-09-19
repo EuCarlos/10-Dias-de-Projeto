@@ -18,5 +18,7 @@ Essa aplicação pegas os numeros de **Casos Confirmados** e **Mortes Confirmada
 ## 2° Dia: Gerar Link do Whatsapp:
 ##### Data: 19/09/2020
 O Foco principal deste projeto tambem o uso de API só que desta vez do WhatsApp `https://api.whatsapp.com/send?phone=55{}&text={}`, criação de interfaces usando Tkinter e o uso do `win32clipboard` para copiar o link gerado para a área de transferencia.
-<imagem>
+<p align="center">
+  <img width="460" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay2.JPG">
+</p>
 O que o programa faz é pegar o numero do whatsapp e uma mensagem e gerar um link para iniciar conversa.
