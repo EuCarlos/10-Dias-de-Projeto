@@ -26,3 +26,6 @@ O que o programa faz é pegar o numero do whatsapp e uma mensagem e gerar um lin
 ## 3° Dia: Lançador de Dados
 ##### Data: 20/09/2020
 É um joguinhos que quando é clicado no botão **LANÇAR DADOS** a matriz com imagem dos dois dados é escolhida aleatoriamente.
+<p align="center">
+  <img width="300" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay3.JPG">
+</p>
