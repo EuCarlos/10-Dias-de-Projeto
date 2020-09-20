@@ -22,3 +22,7 @@ O Foco principal deste projeto tambem o uso de API só que desta vez do WhatsApp
   <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay2.JPG">
 </p>
 O que o programa faz é pegar o numero do whatsapp e uma mensagem e gerar um link para iniciar conversa.
+
+## 3° Dia: Lançador de Dados
+##### Data: 20/09/2020
+É um joguinhos que quando é clicado no botão **LANÇAR DADOS** a matriz com imagem dos dois dados é escolhida aleatoriamente.
