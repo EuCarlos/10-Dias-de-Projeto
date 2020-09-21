@@ -33,6 +33,10 @@ O que o programa faz é pegar o numero do whatsapp e uma mensagem e gerar um lin
 ## 4° Dia: Piano
 ##### Data: 21/09/2020
 Baseado no uso da física da musica, escalas musicais são definidas pela frequencias das notas... com isso podemos usar a função `Beep()` do módulo `winsound`
+<p align="center">
+  <img width="300" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay4.JPG">
+</p>
+O programa todo é baseado nessa tabela de frequencias das notas musicais:
 
 Representação | Notas Musicais | Frequencia
 :---: | :---: | :---:
