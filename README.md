@@ -29,3 +29,22 @@ O que o programa faz é pegar o numero do whatsapp e uma mensagem e gerar um lin
 <p align="center">
   <img width="300" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay3.JPG">
 </p>
+
+## 4° Dia: Piano
+##### Data: 21/09/2020
+Baseado no uso da física da musica, escalas musicais são definidas pela frequencias das notas... com isso podemos usar a função `Beep()` do módulo `winsound`
+
+Representação | Notas Musicais | Frequencia
+:---: | :---: | :---:
+C | Dó | 132Hz
+C# | Dó Sustenido | 137,544Hz
+D | Ré | 148,5Hz
+D# | Ré Sustenido | 154,7Hz
+E | Mi | 165Hz
+F | Fá | 175,956Hz
+F# | Fá Sustenido | 183,348Hz
+G | Sol | 198Hz
+G# | Sol Sustenido | 206,316Hz
+A | Lá | 220Hz
+A# | Lá Sustenido | 229,3Hz
+B | Si | 247,5Hz
