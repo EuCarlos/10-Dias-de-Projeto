@@ -56,4 +56,6 @@ B | Si | 247,5Hz
 ## 5° Dia: Tomador de decisões
 ##### Data: 22/09/2020
 Ao fazer uma pergunta para o programa ele retornar uma entre as varias outras respostas que estão armazenado no arquivo `scriptBot.txt`
-<imagem do programa funcionando>
+<p align="center">
+  <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay5.JPG">
+</p>
