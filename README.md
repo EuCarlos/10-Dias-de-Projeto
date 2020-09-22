@@ -52,3 +52,8 @@ G# | Sol Sustenido | 206,316Hz
 A | Lá | 220Hz
 A# | Lá Sustenido | 229,3Hz
 B | Si | 247,5Hz
+
+## 5° Dia: Tomador de decisões
+##### Data: 22/09/2020
+Ao fazer uma pergunta para o programa ele retornar uma entre as varias outras respostas que estão armazenado no arquivo `scriptBot.txt`
+<imagem do programa funcionando>
