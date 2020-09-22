@@ -1,0 +1,21 @@
+[Bot] Mais é claro que sim!
+[Bot] Mais é claro que não!
+[Bot] Eu acho melhor não!
+[Bot] Eu acho que melhor a se fazer!
+[Bot] Que tal tentar outra coisa!
+[Bot] A Pergunta deveria ser, por que não?
+[Bot] Legal, vai lá!
+[Bot] Péssima ideia! melhor outra hora.
+[Bot] Uau que show!
+[Bot] Que tal tentar isso hoje?
+[Bot] Isso não é legal!
+[Bot] Talvez, tem certeza que é o que você quer?
+[Bot] Talvez, achei meio sem graça!
+[Bot] Simplesmente não!
+[Bot] Simplesmente sim!
+[Bot] Melhor não responder essa...
+[Bot] Acho que você já saber sua decisão sobre isso...
+[Bot] Tem certeza que é pra eu tomar essa decisão?
+[Bot] Nossa que tedio isso!(Risos)
+[Bot] Hoje não! faça amanhã.
+[Bot] "Não sou capaz de opinar"
