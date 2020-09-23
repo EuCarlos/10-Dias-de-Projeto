@@ -63,4 +63,6 @@ Ao fazer uma pergunta para o programa ele retornar uma entre as varias outras re
 ## 6° Dia: Adivinhe o Numero
 ##### Data: 23/09/2020
 O programa escolhe um numero de 0 até 100. O desafio é você tentar acertar qual o numero que o programa escolheu.
-<imagem do programa funcionando>
+<p align="center">
+  <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay6.jpeg">
+</p>
