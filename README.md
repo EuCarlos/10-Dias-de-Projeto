@@ -66,3 +66,6 @@ O programa escolhe um numero de 0 até 100. O desafio é você tentar acertar qu
 <p align="center">
   <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay6.jpeg">
 </p>
+## 7° Dia: WebScraping de OGlobo
+##### Data: 24/09/2020
+O programa pega as noticias do site `https://oglobo.globo.com/` e retorna as noticias para o arquivo `noticias.txt`que é criado apartir do momento em que o programa é iniciado.
