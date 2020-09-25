@@ -70,3 +70,9 @@ O programa escolhe um numero de 0 até 100. O desafio é você tentar acertar qu
 ## 7° Dia: WebScraping de OGlobo
 ##### Data: 24/09/2020
 O programa pega as noticias do site `https://oglobo.globo.com/` e retorna as noticias para o arquivo `noticias.txt`que é criado apartir do momento em que o programa é iniciado.
+
+## 8° Dia: Gerar Senhas
+##### Data: 25/09/2020
+Ao clicar no botão de "GERAR SENHA" o programa gera a senha com a quatidade de caracteres que você escolher.
+<imagem>
+Depois que a senha é gerada surge um botão para copiar senha para a aréa de transferencia.
