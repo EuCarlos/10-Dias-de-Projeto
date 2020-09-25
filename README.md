@@ -74,5 +74,7 @@ O programa pega as noticias do site `https://oglobo.globo.com/` e retorna as not
 ## 8° Dia: Gerar Senhas
 ##### Data: 25/09/2020
 Ao clicar no botão de "GERAR SENHA" o programa gera a senha com a quatidade de caracteres que você escolher.
-<imagem>
+<p align="center">
+  <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay8.JPG">
+</p>
 Depois que a senha é gerada surge um botão para copiar senha para a aréa de transferencia.
