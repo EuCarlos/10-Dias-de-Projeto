@@ -83,3 +83,6 @@ Depois que a senha é gerada surge um botão para copiar senha para a aréa de t
 
 ## 9° Dia: Download de videos do youtube.
 ##### Data: 26/09/2020
+
+## 10° Dia: Gerador de Certificado.
+##### Data: 27/09/2020
