@@ -18,12 +18,12 @@ def gerarCertificado():
         txt4 = Label(jan, text='CERTIFICADOS GERADOS', bg='green', fg='white').place(x=90, y=160)
 
     for i in range(len(alunos)):
-        input_file = r'C:\[caminho_do_arquivo]\Resultados\Certificado{}.xlsx'.format(i)
-        output_file = r'C:\[caminho_do_arquivo]\Resultados\Certificado{}.pdf'.format(i)
+        input_file = r'C:\[caminho_do_arquivo]\Certificado{}.xlsx'.format(i)
+        output_file = r'C:\[caminho_do_arquivo]\Certificado{}.pdf'.format(i)
         Excel2Pdf(input_file, output_file)
 
     for i in range(len(alunos)):
-        input_file = r'C:\[caminho_do_arquivo]\Resultados\Certificado{}.xlsx'.format(i)
+        input_file = r'C:\[caminho_do_arquivo]\Certificado{}.xlsx'.format(i)
         apagaArq(input_file)
 
 date_today = date.today()
