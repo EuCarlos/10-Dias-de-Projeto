@@ -86,3 +86,11 @@ Depois que a senha é gerada surge um botão para copiar senha para a aréa de t
 
 ## 10° Dia: Gerador de Certificado.
 ##### Data: 27/09/2020
+Este programa é uma automação em que você pode coloca os nomes em lista no arquivo `NomeDosAlunos.txt`. ele vai ler e gerar um certificado em PDF para cada aluno informado no arquivo. O Programa tem uma interface que pede o nome do intrutor:
+<p align="center">
+  <img width="250" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/img10.jpg">
+</p>
+O Modelo do certifido é moldado primeiro no Excel para ser automatizado. o modelo é este abaixo:
+<p align="center">
+  <img width="400" src="https://github.com/EuCarlos/10-Dias-de-Projeto/blob/master/images/imgDay10.jpg">
+</p>
