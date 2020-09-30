@@ -10,7 +10,7 @@ def Excel2Pdf(input_file, output_file):
     try:
         Workbook.ActiveSheet.ExportAsFixedFormat(0, output_file)
     except Exception as e:
-        print("Failed to convert in PDF format.Please confirm environment meets all the requirements  and try again")
+        print("Falha ao converter em formato PDF. Confirme se o ambiente atende a todos os requisitos e tente novamente")
         print(str(e))
     finally:
         Workbook.Close()
